@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
   <img src="static/logo/logo.png" width=100/>
-</p> -->
+</p>
 
 # Chestnut VSCode Theme
 
