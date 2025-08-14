@@ -844,6 +844,17 @@
       "settings": {
         "foreground": "#2F3DA3"
       }
-    }
+    },
+    {
+      "name": "HTML: Tags",
+      "scope": [
+        "entity.name.tag.html",
+        // "punctuation.definition.tag.begin.html",
+        // "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#2F3DA3"
+      }
+    },
   ]
 }
