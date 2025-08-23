@@ -14,6 +14,7 @@
     "button.hoverBackground": "#3D2B5A",
     "button.secondaryBackground": "#000000",
     "button.separator": "#f6f2ee",
+    "chat.requestBubbleBackground": "#DFD6CEf0",
     "checkbox.background": "#fffff1",
     "checkbox.foreground": "#3D2B5A",
     "commandCenter.activeBackground": "#f6f2ee",
