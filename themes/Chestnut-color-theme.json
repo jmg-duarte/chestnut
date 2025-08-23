@@ -254,7 +254,7 @@
     "*.deprecated": {
       "fontStyle": "strikethrough"
     },
-    "comment": "#6d6d6d",
+    "comment": "#494949",
     "label": {
       "fontStyle": "bold"
     },
@@ -269,7 +269,7 @@
       ],
       "settings": {
         // "fontStyle": "italic",
-        "foreground": "#6d6d6d"
+        "foreground": "#494949"
       }
     },
     {
