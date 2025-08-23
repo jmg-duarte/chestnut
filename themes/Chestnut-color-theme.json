@@ -70,6 +70,7 @@
     "extensionButton.hoverBackground": "#3D2B5A",
     "extensionButton.separator": "#f6f2ee",
     "focusBorder": "#3D2B5A",
+    "git.blame.editorDecorationForeground": "#6D6054",
     "icon.foreground": "#000000",
     "input.background": "#f6f2ee",
     "input.border": "#DFD6CE",
@@ -99,9 +100,9 @@
     "panelTitle.inactiveForeground": "#000000",
     "peekView.border": "#3D2B5A",
     "peekViewEditor.background": "#f6f2ee",
-    "peekViewResult.background": "#F1EBE4",
     "peekViewEditor.matchHighlightBackground": "#9E7FDC18",
     "peekViewEditor.matchHighlightBorder": "#9E7FDC53",
+    "peekViewResult.background": "#F1EBE4",
     "peekViewResult.matchHighlightBackground": "#E3D6CA",
     "peekViewResult.selectionBackground": "#f6f2ee",
     "peekViewResult.selectionForeground": "#000000",
@@ -157,7 +158,7 @@
     // Gitlens specific (do not sort with the rest)
     "gitlens.gutterBackgroundColor": "#F1EBE400",
     "gitlens.gutterForegroundColor": "#000000",
-    "gitlens.trailingLineForegroundColor": "#00000070"
+    "gitlens.trailingLineForegroundColor": "#00000070",
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
