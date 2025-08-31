@@ -29,7 +29,7 @@
     "editor.background": "#f6f2ee",
     "editor.findMatchBackground": "#9E7FDC18",
     "editor.findMatchHighlightBackground": "#9E7FDC18",
-    "editor.findMatchHighlightBorder": "#9E7FDC",
+    "editor.findMatchHighlightBorder": "#020102",
     "editor.findRangeHighlightBackground": "#9E7FDC18",
     "editor.foreground": "#000000",
     "editor.hoverHighlightBackground": "#E3D6CA53",
@@ -146,6 +146,8 @@
     "tab.lastPinnedBorder": "#DFD6CE",
     "terminal.background": "#F1EBE4",
     "terminal.dropBackground": "#7050A572",
+    "terminal.findMatchHighlightBorder": "#a789e2be",
+    "terminal.selectionBackground": "#7150a5a6", // findMatchBackground uses this https://github.com/microsoft/vscode/issues/252449
     "terminalStickyScroll.background": "#F1EBE4",
     "terminalStickyScrollHover.background": "#E3D6CA",
     "textLink.foreground": "#7050A5",
