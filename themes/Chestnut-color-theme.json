@@ -76,6 +76,7 @@
     "input.background": "#f6f2ee",
     "input.border": "#DFD6CE",
     "input.foreground": "#000000",
+    "inputOption.activeBorder": "#a789e2",
     "list.activeSelectionBackground": "#E8DDD3b0",
     "list.activeSelectionForeground": "#000000",
     "list.dropBackground": "#7050A572",
