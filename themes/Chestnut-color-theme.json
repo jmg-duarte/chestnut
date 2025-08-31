@@ -120,6 +120,7 @@
     "scrollbarSlider.activeBackground": "#E8DDD3B0",
     "scrollbarSlider.background": "#E8DDD360",
     "scrollbarSlider.hoverBackground": "#E8DDD390",
+    "searchEditor.findMatchBorder": "#a789e2",
     "sideBar.background": "#F1EBE4",
     "sideBar.border": "#DFD6CE",
     "sideBar.dropBackground": "#7050A572",
